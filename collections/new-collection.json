@@ -1,0 +1,1 @@
+{"@context":"http://iiif.io/api/presentation/2/context.json","@id":"https://detektiiif.manducus.net/invalide","@type":"sc:Collection","label":"detektIIIF2 Collection","manifests":[{"@id":"https://www.e-manuscripta.ch/i3f/v20/1188047/manifest","@type":"sc:Manifest","label":"[Baden ab Kreuzliberg]","thumbnail":"https://www.e-manuscripta.ch/i3f/v21/1188048/full/304/0/default.jpg"}]}
